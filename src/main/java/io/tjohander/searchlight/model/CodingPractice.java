@@ -1,5 +1,5 @@
 package io.tjohander.searchlight.model;
 
-public class CodingPractice {
+public class CodingPractice extends Activity {
 
 }

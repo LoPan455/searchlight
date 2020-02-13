@@ -1,5 +1,5 @@
 package io.tjohander.searchlight.model;
 
-public class Meetup {
+public class Meetup extends Activity {
 
 }
